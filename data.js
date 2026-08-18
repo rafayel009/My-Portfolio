@@ -21,8 +21,8 @@ const SITE = {
   email: "shaikathossain.edu@gmail.com",
   phone: "+880 1410-674763",
   linkedin: "https://www.linkedin.com/in/kazi-shaikat-hossain-aa47b6237/", // TODO: paste your full LinkedIn URL
-  resumeFile: "assets/resume.pdf",      // add your PDF at this path, or delete the button in index.html
-  photo: "assets/profile.jpg",
+  resumeFile: "resume.pdf",      // add your PDF at this path, or delete the button in index.html
+  photo: "profile.jpg",
 
   summary:
     "Recent B.Sc. graduate in Electrical and Electronic Engineering with undergraduate research experience in semiconductor device simulation, TCAD modeling, and high-k dielectric MOSFET optimization. Comfortable across Silvaco TCAD, COMSOL Multiphysics, MATLAB, and Cadence, with a habit of writing up findings clearly — from lab notebook to conference manuscript.",
